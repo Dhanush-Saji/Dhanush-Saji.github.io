@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.6be71388.css",
-    "main.js": "/static/js/main.56150b99.js",
+    "main.js": "/static/js/main.dd36fcee.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
-    "static/media/CV.pdf": "/static/media/CV.5f0c6bafd2ea8d736ee4.pdf",
+    "static/media/FW20_0165_Dhanush_Saji_Resume.pdf": "/static/media/FW20_0165_Dhanush_Saji_Resume.f47be2335bcbecf6296b.pdf",
     "static/media/figma_tool.png": "/static/media/figma_tool.e3eda632293ac2143a26.png",
     "static/media/photoshop_tool.png": "/static/media/photoshop_tool.0c9242d334bf98ede8fc.png",
     "static/media/mongo_tool.png": "/static/media/mongo_tool.2f81ed7ec1fd818da1b5.png",
@@ -34,11 +34,11 @@
     "static/media/material_tool.png": "/static/media/material_tool.5b2d8a0a309d9f7d47c1.png",
     "index.html": "/index.html",
     "main.6be71388.css.map": "/static/css/main.6be71388.css.map",
-    "main.56150b99.js.map": "/static/js/main.56150b99.js.map",
+    "main.dd36fcee.js.map": "/static/js/main.dd36fcee.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6be71388.css",
-    "static/js/main.56150b99.js"
+    "static/js/main.dd36fcee.js"
   ]
 }
