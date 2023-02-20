@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6be71388.css",
-    "main.js": "/static/js/main.dd36fcee.js",
+    "main.js": "/static/js/main.facdba28.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/FW20_0165_Dhanush_Saji_Resume.pdf": "/static/media/FW20_0165_Dhanush_Saji_Resume.f47be2335bcbecf6296b.pdf",
     "static/media/figma_tool.png": "/static/media/figma_tool.e3eda632293ac2143a26.png",
@@ -9,6 +9,8 @@
     "static/media/mongo_tool.png": "/static/media/mongo_tool.2f81ed7ec1fd818da1b5.png",
     "static/media/ME.png": "/static/media/ME.0d9d34c6ab11a9f9ce1a.png",
     "static/media/youtube.png": "/static/media/youtube.0f29a999b9cfdf5d1e35.png",
+    "static/media/little.jpg": "/static/media/little.facb437e15b0aba88340.jpg",
+    "static/media/openai.png": "/static/media/openai.3d52579e6218bf4d0010.png",
     "static/media/white.png": "/static/media/white.89499e16c1c258ddcb10.png",
     "static/media/tailwind_tool.png": "/static/media/tailwind_tool.9c2e5bcf4f97d73e438e.png",
     "static/media/bootstrap_tool.png": "/static/media/bootstrap_tool.d5210cdeab1bc94309c4.png",
@@ -34,11 +36,11 @@
     "static/media/material_tool.png": "/static/media/material_tool.5b2d8a0a309d9f7d47c1.png",
     "index.html": "/index.html",
     "main.6be71388.css.map": "/static/css/main.6be71388.css.map",
-    "main.dd36fcee.js.map": "/static/js/main.dd36fcee.js.map",
+    "main.facdba28.js.map": "/static/js/main.facdba28.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6be71388.css",
-    "static/js/main.dd36fcee.js"
+    "static/js/main.facdba28.js"
   ]
 }
