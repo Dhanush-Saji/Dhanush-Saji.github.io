@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca2c212d.css",
-    "main.js": "/static/js/main.a46d0c72.js",
+    "main.css": "/static/css/main.d8d41f3b.css",
+    "main.js": "/static/js/main.4a389186.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/FW20-0165-Dhanush-Saji-Resume.pdf": "/static/media/FW20-0165-Dhanush-Saji-Resume.114d35b191fb0b7be248.pdf",
     "static/media/little.jpg": "/static/media/little.facb437e15b0aba88340.jpg",
@@ -35,12 +35,12 @@
     "static/media/illustrator_tool.png": "/static/media/illustrator_tool.a9be3495f6fc8f43d551.png",
     "static/media/html_tool.png": "/static/media/html_tool.916521afb9e06c3091df.png",
     "index.html": "/index.html",
-    "main.ca2c212d.css.map": "/static/css/main.ca2c212d.css.map",
-    "main.a46d0c72.js.map": "/static/js/main.a46d0c72.js.map",
+    "main.d8d41f3b.css.map": "/static/css/main.d8d41f3b.css.map",
+    "main.4a389186.js.map": "/static/js/main.4a389186.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca2c212d.css",
-    "static/js/main.a46d0c72.js"
+    "static/css/main.d8d41f3b.css",
+    "static/js/main.4a389186.js"
   ]
 }
